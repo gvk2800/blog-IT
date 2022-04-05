@@ -26,7 +26,7 @@ export default function Login() {
           </div>
           <div className="right-panel">
             <h2>
-              #1 Bloggin website for everyone around the globe. Totally free and
+              #1 Blogging website for everyone around the globe. Totally free and
               easy to use.
             </h2>
             <Player

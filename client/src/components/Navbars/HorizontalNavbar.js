@@ -21,7 +21,7 @@ export default function HorizontalNavbar() {
       <Menu selectedKeys={"logo"} mode="horizontal" theme="dark">
         <Menu.Item className="unhoverable-menu-item">
           <a href="/">
-            <Avatar src={blogLogo} shape="square" /> &nbsp; Blog App
+            <Avatar src={blogLogo} shape="square" /> &nbsp; <strong>Blog-IT</strong>
           </a>
         </Menu.Item>
 
