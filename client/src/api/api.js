@@ -1,6 +1,6 @@
 import Axios from "axios";
 const axiosConfig = {
-  baseURL: `/api`,
+  baseURL: `http://${window.location.hostname}:/api`,
 };
 
 const axios = Axios.create(axiosConfig);
