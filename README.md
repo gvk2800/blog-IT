@@ -94,9 +94,6 @@ After you've set these environmental variables in the .env file at the root of t
 
 Now that the database has data and the environmental variables are all set, you should run the two folders, the client and server together to run the application. Open two terminals, navigate to the client in one and to the server in another, run "npm start" in both terminals and the application should start.
 
-## License
 
-[![License](https://img.shields.io/:License-MIT-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
-- MIT License
-- Copyright 2021 © [Maryam Aljanabi](https://github.com/maryamaljanabi)
+- [Gaurav kumar](https://github.com/gvk2800)
